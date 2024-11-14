@@ -30,7 +30,7 @@ Seul l'entretien avec le jury donne lieu à notation. Le dossier n'est pas noté
 ## Programmation
 
 - [ ] [Développement](./fiches/211-developpement.md)
-- [ ] [BDD](./fiches/212-bdd.md)
+- [X] [BDD](./fiches/212-bdd.md)
 - [ ] [DevOps](./fiches/213-devops.md)
 - [ ] [Acteur étatique du numérique](./fiches/214-gouv.md)
 - [ ] [Politique](./fiches/215-politique.md)

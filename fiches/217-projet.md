@@ -133,6 +133,8 @@ Quel que soit le format de solution cloud choisi, le mode produit doit être pri
 - la confrontation rapide avec les utilisateurs du produit
 - un jalonnement par l’impact permettant d’arrêter, d’infléchir ou d’accélérer la trajectoire du produit en fonction des résultats constatés.
 
+Référence
+
 - [Le Cloud pour les administrations](https://www.numerique.gouv.fr/services/cloud/faq/)
 - [Mode projet vs mode produit](https://www.reussirsesprojets.com/mode-projet-vs-mode-produit/#t-1658230401569)
 - [Mode produit numerique.gouv.fr](https://www.numerique.gouv.fr/rechercher/?query=mode%20produit)
@@ -143,7 +145,7 @@ Nouvelle méthode mise en avant à l'IGN
 
 ## Les outils et indicateurs, mesures de performance
 
-Les métriques Agile permettent aux équipes d’évaluer la qualité d’un produit durant les différentes étapes du cycle de vie de développement et de suivre les performances d’une équipe.
+Les métriques Agile ou KPI (key performance indicator) permettent aux équipes d’évaluer la qualité d’un produit durant les différentes étapes du cycle de vie de développement et de suivre les performances d’une équipe.
 
 Dans la méthode Scrum, les sprints donnent à l'équipe l’opportunité d'apporter des modifications et d'améliorer les processus si besoin. L'objectif est d’obtenir des KPI qui accompagnent l’équipe dans les changements à réaliser.
 
@@ -167,6 +169,7 @@ Au-delà des indicateurs que nous venons d’énumérer, la motivation et l’é
 
 Références
 
+- [What are agile KPI metrics ?](https://www.wrike.com/agile-guide/faq/what-are-agile-kpi-metrics/)
 - [KPI des projets agiles : quels indicateurs pour piloter en agilité ? Focus sur la méthode Scrum](https://www.infogene.fr/publications/kpi-projet-agile#:~:text=Qu'est%2Dce%20qu',et%20d'analyser%20les%20donn%C3%A9es.)
 
 > **Et à l'IGN ?**
