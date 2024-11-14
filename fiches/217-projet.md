@@ -99,6 +99,8 @@ La plus part des projets agiles en 2018 sont "faux-agile" et ne respectent pas s
 - Les meilleures architectures, les meilleurs spécifications de besoins, et les meilleurs conceptions émergenet d'équipe auto-organisés
 - a intervalles réguliers, l'équipe réfléchit aux façon de devenir plus efficace puis modifie son comportement et l'ajuste en conséquence.
 
+Réferences
+
 - [Méthode agile 2001](https://fr.wikipedia.org/wiki/M%C3%A9thode_agile)
 - [Manifeste agile](https://fr.wikipedia.org/wiki/Manifeste_agile)
 - [Xtreme programming]
@@ -133,9 +135,55 @@ Quel que soit le format de solution cloud choisi, le mode produit doit être pri
 
 - [Le Cloud pour les administrations](https://www.numerique.gouv.fr/services/cloud/faq/)
 - [Mode projet vs mode produit](https://www.reussirsesprojets.com/mode-projet-vs-mode-produit/#t-1658230401569)
+- [Mode produit numerique.gouv.fr](https://www.numerique.gouv.fr/rechercher/?query=mode%20produit)
 
 > **Et à l'IGN ?**
 
 Nouvelle méthode mise en avant à l'IGN
 
 ## Les outils et indicateurs, mesures de performance
+
+Les métriques Agile permettent aux équipes d’évaluer la qualité d’un produit durant les différentes étapes du cycle de vie de développement et de suivre les performances d’une équipe.
+
+Dans la méthode Scrum, les sprints donnent à l'équipe l’opportunité d'apporter des modifications et d'améliorer les processus si besoin. L'objectif est d’obtenir des KPI qui accompagnent l’équipe dans les changements à réaliser.
+
+L'efficacité d’une équipe Scrum se caractérise par la réussite de l’équipe à développer un certain nombre de user stories durant un sprint.
+
+- Les indicateurs d’efficacité et prévisibilité
+  - La vélocité
+  - Le graphique Burndown chart
+- Les indicateurs de qualité
+- Les indicateurs de valeur
+  - La méthode NPS (Net Promoter Score)
+- L’équipe Scrum
+
+La vélocité mesure le nombre la quantité de travail accomplli dans un sprint limité dans le temps.
+
+Pour la qualité Il s’agit de mesurer le temps passé par l’équipe Scrum sur de la correction d’anomalies découvertes lors de chaque sprint. C’est donc le ratio du temps passé par les équipes de développement à faire des tests versus le temps passé à développer de nouvelles fonctionnalités.
+
+Le score NPS est une mesure de la fidélité qui permet de quantifier ce que le client pense d'un produit.
+
+Au-delà des indicateurs que nous venons d’énumérer, la motivation et l’émulsion liée à l’équipe Scrum face aux projets reste l’un des facteurs clés du succès.
+
+Références
+
+- [KPI des projets agiles : quels indicateurs pour piloter en agilité ? Focus sur la méthode Scrum](https://www.infogene.fr/publications/kpi-projet-agile#:~:text=Qu'est%2Dce%20qu',et%20d'analyser%20les%20donn%C3%A9es.)
+
+> **Et à l'IGN ?**
+
+Mesure par sprint du
+
+- Nombres de tickets (et de la somme du temps prévu)
+  - ticket évolution
+  - ticket anomalie
+  - ticket par version (patch-live, futurs versions)
+- Nombres de jours consomés (SAP)
+
+Pour rester motivés et impliqué dans le projet on se soutiens
+
+- on trace les anomalies et commente leur prise en compte
+- on reccueil le besoin sans a priori
+- on fait des sessions de peer-progamming pour lever les diffucutlés technique
+- on fait des revues de code pour chaqun puisse maitrise tout l'environnement de dev
+
+Côté intégration continue on met en place des indicateurs de qualité du code, on implemente les bonne pratiques liés au technologies.
