@@ -1,5 +1,5 @@
-b) Bases de données ;
+# Bases de données
 
+## dictionnaire de données
 
-- dictionnaire de données ;
-- les structures de données et leurs utilisations ;
+## les structures de données et leurs utilisations

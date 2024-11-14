@@ -2,6 +2,6 @@
 
 ## Le dossier d'exploitation
 
-## CI/ CD (intégration continue et développement continue)
+## CI/CD (intégration continue et développement continue)
 
-## chaîne de construction logicielle
+## Chaîne de construction logicielle

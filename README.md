@@ -2,7 +2,7 @@
 
 ## Arrete
 
-Par arrêté du ministre de la transition écologique et de la cohésion des territoires (MTECT) et du ministre de la transformation et de la fonction publique (MTFP) en date du 10 juin 2024.
+[Par arrêté](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049909467) du ministre de la transition écologique et de la cohésion des territoires (MTECT) et du ministre de la transformation et de la fonction publique (MTFP) en date du 10 juin 2024.
 
 Les modalités de l'examen professionnel d'aptitude à la qualification d'analyste auxquelles sont soumis les membres des corps appartenant à la catégorie A relevant du MTECT sont défini comme suit
 
@@ -24,18 +24,18 @@ Seul l'entretien avec le jury donne lieu à notation. Le dossier n'est pas noté
 
 ## Information
 
-- [Représentation de l'information](./fiches/information.md)
-- [Logiciel](./fiches/logiciel.md)
+- [ ] [Représentation de l'information](./fiches/information.md)
+- [ ] [Logiciel](./fiches/logiciel.md)
 
 ## Programmation
 
-- [Développement](./fiches/developpement.md)
-- [BDD](./fiches/bdd.md)
-- [DevOps](./fiches/devops.md)
-- [Acteur étatique du numérique](./fiches/gouv.md)
-- [Politique](./fiches/politique.md)
-- [Reglementation](./fiches/reglementation.md)
-- [Conduite projet](./fiches/projet.md)
-- [Acteurs](./fiches/acteurs.md)
-- [Architecture informatique](./fiches/archi.md)
-- [Sécurité informatique](./fiches/securite.md)
+- [ ] [Développement](./fiches/developpement.md)
+- [ ] [BDD](./fiches/bdd.md)
+- [ ] [DevOps](./fiches/devops.md)
+- [ ] [Acteur étatique du numérique](./fiches/gouv.md)
+- [ ] [Politique](./fiches/politique.md)
+- [ ] [Reglementation](./fiches/reglementation.md)
+- [X] [Conduite projet](./fiches/projet.md)
+- [~] [Acteurs](./fiches/acteurs.md)
+- [X] [Architecture informatique](./fiches/archi.md)
+- [X] [Sécurité informatique](./fiches/securite.md)
