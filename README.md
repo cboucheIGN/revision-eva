@@ -24,18 +24,18 @@ Seul l'entretien avec le jury donne lieu à notation. Le dossier n'est pas noté
 
 ## Information
 
-- [ ] [Représentation de l'information](./fiches/information.md)
-- [ ] [Logiciel](./fiches/logiciel.md)
+- [ ] [Représentation de l'information](./fiches/101-information.md)
+- [ ] [Logiciel](./fiches/102-logiciel.md)
 
 ## Programmation
 
-- [ ] [Développement](./fiches/developpement.md)
-- [ ] [BDD](./fiches/bdd.md)
-- [ ] [DevOps](./fiches/devops.md)
-- [ ] [Acteur étatique du numérique](./fiches/gouv.md)
-- [ ] [Politique](./fiches/politique.md)
-- [ ] [Reglementation](./fiches/reglementation.md)
-- [X] [Conduite projet](./fiches/projet.md)
-- [~] [Acteurs](./fiches/acteurs.md)
-- [X] [Architecture informatique](./fiches/archi.md)
-- [X] [Sécurité informatique](./fiches/securite.md)
+- [ ] [Développement](./fiches/211-developpement.md)
+- [ ] [BDD](./fiches/212-bdd.md)
+- [ ] [DevOps](./fiches/213-devops.md)
+- [ ] [Acteur étatique du numérique](./fiches/214-gouv.md)
+- [ ] [Politique](./fiches/215-politique.md)
+- [ ] [Reglementation](./fiches/216-reglementation.md)
+- [X] [Conduite projet](./fiches/217-projet.md)
+- [ ] [Acteurs](./fiches/218-acteurs.md)
+- [X] [Architecture informatique](./fiches/219-archi.md)
+- [X] [Sécurité informatique](./fiches/220-securite.md)
