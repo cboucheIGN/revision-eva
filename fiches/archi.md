@@ -99,4 +99,3 @@ Les services de l’État et les organismes placés sous sa tutelle doivent dor�
 > **Et à l'IGN ?**
 
 Mise en marché de cloud privés, ovh cloud remporte le marché
-

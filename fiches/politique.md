@@ -1,10 +1,11 @@
+# Politiques et référentiels ministériels et interministériels
 
-E. - Politiques et référentiels ministériels et interministériels
+## référentiels : RGS, RGAA, RGESN, RGI
 
+## système de design de l'état (DSFR)
 
-- référentiels : RGS, RGAA, RGESN, RGI ;
-- système de design de l'état (DSFR) ;
-- accessibilité, sécurité ;
-- numérique responsable ;
-- outils ministériels.
+## accessibilité, sécurité
 
+## numérique responsable
+
+## outils ministériel

@@ -1,5 +1,3 @@
-D. - Instances ou services administratifs ministériels et interministériels du numérique
+# Instances ou services administratifs ministériels et interministériels du numérique
 
-
-- gouvernance du numérique étatique.
-
+## gouvernance du numérique étatique
