@@ -1,5 +1,7 @@
 # Examen de vérification d'aptitude aux fonctions d'analystes (EVA Analyste)
 
+- [NoteBook](https://notebooklm.google.com/notebook/0f49755d-79c0-47b7-8d98-345b6f1ec081)
+
 ## Arrete
 
 [Par arrêté](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049909467) du ministre de la transition écologique et de la cohésion des territoires (MTECT) et du ministre de la transformation et de la fonction publique (MTFP) en date du 10 juin 2024.
@@ -29,11 +31,11 @@ Seul l'entretien avec le jury donne lieu à notation. Le dossier n'est pas noté
 
 ## Programmation
 
-- [ ] [Développement](./fiches/211-developpement.md)
+- [X] [Développement](./fiches/211-developpement.md)
 - [X] [BDD](./fiches/212-bdd.md)
-- [ ] [DevOps](./fiches/213-devops.md)
-- [ ] [Acteur étatique du numérique](./fiches/214-gouv.md)
-- [ ] [Politique](./fiches/215-politique.md)
+- [X] [DevOps](./fiches/213-devops.md)
+- [X] [Acteur étatique du numérique](./fiches/214-gouv.md)
+- [X] [Politique](./fiches/215-politique.md)
 - [ ] [Reglementation](./fiches/216-reglementation.md)
 - [X] [Conduite projet](./fiches/217-projet.md)
 - [ ] [Acteurs](./fiches/218-acteurs.md)

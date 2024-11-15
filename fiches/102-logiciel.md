@@ -4,7 +4,7 @@
 
 En informatique un système d'exploitation (OS) est un ensemble de programmes qui dirige l'utilisation des ressoruces d'un ordinateur par des logiciels applicatifs.
 
-Les recoit les demandes d'utilisation des ressources de l'ordinateur - ressource de stockage des mémoires, des ressources de calculs, de communication (périphériques/réseau) - de la part des logiciels applicatifs. L'OS gère les demandes ainsi que les ressources nécessaires évitant les interférences entre les logiciels.
+L'OS recoit les demandes d'utilisation des ressources de l'ordinateur - ressource de stockage des mémoires, des ressources de calculs, de communication (périphériques/réseau) - de la part des logiciels applicatifs. L'OS gère les demandes ainsi que les ressources nécessaires évitant les interférences entre les logiciels.
 
 Référence
 
@@ -38,7 +38,7 @@ Référence
 
 ### Administration publique
 
-Dans tous les postes de travail à responsabilité dans l'administration publique il est demandé de savoir utiliser un ordinateur. Une expérience avec les applications spécifiques à certains secteurs d'activités – telle que les ressources humaines – augmente les chances de trouver un emploi. Est particulièrement importante l'expérience avec les applications génériques utilisées dans tous les postes de l'administration publique : Le traitement de texte, l'usage du tableur, la manipulation d'images numériques, les applications de bases de données, le courrier électronique, le web et l'utilisation des systèmes d'information géographique18. Il existe également de nombreuses applications spécifiques à certains secteurs, mais la connaissance de leur utilisation n'est pas autant polyvalente que celle des applications génériques : certaines applications sont créées sur mesure pour les secteurs, ou faites maison par le personnel d'administration.
+Dans tous les postes de travail à responsabilité dans l'administration publique il est demandé de savoir utiliser un ordinateur. Une expérience avec les applications spécifiques à certains secteurs d'activités – telle que les ressources humaines – augmente les chances de trouver un emploi. Est particulièrement importante l'expérience avec les applications génériques utilisées dans tous les postes de l'administration publique : Le traitement de texte, l'usage du tableur, la manipulation d'images numériques, les applications de bases de données, le courrier électronique, le web et l'utilisation des systèmes d'information géographique. Il existe également de nombreuses applications spécifiques à certains secteurs, mais la connaissance de leur utilisation n'est pas autant polyvalente que celle des applications génériques : certaines applications sont créées sur mesure pour les secteurs, ou faites maison par le personnel d'administration.
 
 > **Et à l'IGN ?**
 
