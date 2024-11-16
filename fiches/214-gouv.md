@@ -26,7 +26,7 @@ Ce cadre vise à :
 - Responsabiliser les dirigeants (par exemple les directeurs d’administration centrale ou les responsables d’établissement) à la sécurité numérique;
 - Renforcer la sécurité numérique des établissements publics de l’État;
 - Responsabiliser les acteurs de la transformation numérique;
-- Assurer la cohérence avec les principaux textes réglementaires définissant une gouvernance en matière de numérique ou de sécurité, notamment la nouvelle IGI 1300 et le décret no 2019-1088 définissant les responsabilités de la direction interministérielle du numérique (DINUM);
+- Assurer la cohérence avec les principaux textes réglementaires définissant une gouvernance en matière de numérique ou de sécurité, notamment [la nouvelle IGI 1300](https://cyber.gouv.fr/instruction-generale-interministerielle-n1300) et le décret no 2019-1088 définissant les responsabilités de la direction interministérielle du numérique (DINUM);
 - Assurer la gouvernance aux différents niveaux de l’État via la mise en place d’une procédure de prise de décision aux niveaux interministériel et ministériel.
 
 Le cadre de gouvernance de la sécurité numérique de l’État
