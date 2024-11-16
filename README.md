@@ -1,6 +1,7 @@
 # Examen de vérification d'aptitude aux fonctions d'analystes (EVA Analyste)
 
 - [NoteBook](https://notebooklm.google.com/notebook/0f49755d-79c0-47b7-8d98-345b6f1ec081)
+- [Dépot](https://github.com/cboucheIGN/revision-eva)
 
 ## Arrete
 
@@ -24,20 +25,31 @@ Seul l'entretien avec le jury donne lieu à notation. Le dossier n'est pas noté
 
 ## Programme d'Analyste
 
-## Information
+### Information
 
-- [ ] [Représentation de l'information](./fiches/101-information.md)
-- [X] [Logiciel](./fiches/102-logiciel.md)
+- [ ] [Représentation de l'information](fiches/101-information.md)
+- [X] [Logiciel](fiches/102-logiciel.md)
 
-## Programmation
+### Programmation
 
-- [X] [Développement](./fiches/211-developpement.md)
-- [X] [BDD](./fiches/212-bdd.md)
-- [X] [DevOps](./fiches/213-devops.md)
-- [X] [Acteur étatique du numérique](./fiches/214-gouv.md)
-- [X] [Politique](./fiches/215-politique.md)
-- [X] [Reglementation](./fiches/216-reglementation.md)
-- [X] [Conduite projet](./fiches/217-projet.md)
-- [X] [Acteurs](./fiches/218-acteurs.md)
-- [X] [Architecture informatique](./fiches/219-archi.md)
-- [X] [Sécurité informatique](./fiches/220-securite.md)
+- [X] [Développement](fiches/211-developpement.md)
+- [X] [BDD](fiches/212-bdd.md)
+- [X] [DevOps](fiches/213-devops.md)
+- [X] [Acteur étatique du numérique](fiches/214-gouv.md)
+- [X] [Politique](fiches/215-politique.md)
+- [X] [Reglementation](fiches/216-reglementation.md)
+- [X] [Conduite projet](fiches/217-projet.md)
+- [X] [Acteurs](fiches/218-acteurs.md)
+- [X] [Architecture informatique](fiches/219-archi.md)
+- [X] [Sécurité informatique](fiches/220-securite.md)
+
+## Pour réviser
+
+- [ ] [Définition et présentation générale](questions/general.md)
+- [ ] [Questions détaillés](questions/detail.md) sur le programme
+- [ ] Exemple de [mise en situation](questions/round-1.md)
+
+## Documents
+
+- [RAEP](doc/BOUCHE_Clement_2024-ANALYSTE-62_dossier_RAEP.pdf)
+- [Convocation](doc/2024-ANALYSTE-62-20043-Convocations_Candidats_Epreuve_Orale_EVA_ANALYSTE-CONVOC3.pdf)
