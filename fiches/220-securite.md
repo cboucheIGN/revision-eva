@@ -52,6 +52,27 @@ Elle invite les responsable MOA / d'application à remplir le dossier d'homologa
 
 Les agents responsable de dev sont abonné à la newsleter de MonServiceSécurisé
 
+Une homologation de sécurité est à assuré en vue de besoin de sécurité et d'une mesure des risques d'attaque ou perte.
+
+Dans un DAT on définit une matrice d'exigence, elle permettra de cibler le niveau d'infogérence et de contrôle à mettre en place.
+
+| Exigence                                                     | Niveau |
+|--------------------------------------------------------------|--------|
+| Disponibilité                                                | D2 - Moyen: Ce niveau traduit un délai maximal d'interruption d'une semaine. Un système s'interrompant le mercredi sera rétabli au plus tard le mardi dans la journée ouvrée. |
+| Intégrité                                                    | I1 - Faible: Il est nécessaire de savoir détecter les erreurs significatives, mais sans garantie d’exhaustivité |
+| Confidentialité                                              | C1 - Inexistant - Public |
+| Traçabilité                                                  | T1 - Faible: Traçabilité des actions |
+| Performance                                                  | P1 - Exigence faible. Le système vise à une performance définie, sans que la non-tenue de cette exigence soit très dommageable à l'IGN. |
+| Élasticité                                                   | E1: Le service doit être en mesure de faire face à des pics de charge planifiés suffisamment à l'avance. |
+| Plage horaire d'utilisation du service                       | 24/7 |
+| Plage horaire nécessitant un niveau de disponibilité garanti | 5/7 9:30-16:00 |
+| Perte de Données Maximale Autorisée (PDMA)                   | S2 - PDMA >= une semaine: la perte des données est acceptable jusqu'à une amplitude d'une semaine |
+| Engagements de Maintien en condition Opérationnel            | 1 mois |
+
+Référence
+
+- [DAT GPE](https://gitlab.ign.fr/dat/ignmut/foreg/-/blob/main/SP_DAT-GPE.md)
+
 ## DevSecOps
 
 L'approche DevSecOps (Development - Security - Operations) est une approche qui permet d'intégrer la sécurité des données dès le début d'un projet. La sécurité de celles-ci est considérée comme une condition préalable avant de commencer.
