@@ -37,6 +37,7 @@ Acteurs
   - [Guillaume Kasbarian](https://www.transformation.gouv.fr/ministre/biographie)
 - DINUM - Direction interministérielle du numérique
 - ANSSI - Agence nationale de la sécurité des systèmes d'information
+- CNIL - Commission nationale de l'informatique et des libertés
 
 Reglementation
 
@@ -46,3 +47,7 @@ Reglementation
 - RGI - Référentiel général d'interopérabilité
 - RGESN - Référentiel général d'écoconception de services numériques
 - IGI 1300 - L'instruction générale interministérielle 1300
+
+Autre
+
+- SILL - Socle interministériel des logiciels libres

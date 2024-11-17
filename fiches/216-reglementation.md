@@ -85,10 +85,20 @@ Références
 
 Références
 
+- [Code de la commande publique](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000037701019/LEGISCTA000037723894/)
+
 > **Et à l'IGN ?**
 
 ## passation et les différents documents administratifs inhérents
 
+Il existe différents types de procédures de passation d'un marché public : procédure sans publicité ni mise en concurrence préalables, marché à procédure adaptée (Mapa), procédures formalisées. Une procédure temporaire de passation des marchés publics de travaux sans publicité préalable a été mise en place à la suite des violences urbaines.
+
+- Procédure sans publicité ni mise en concurrence préalables (procédure de gré à gré)
+- Marché à procédure adaptée (Mapa)
+- Procédures formalisées
+- Procédure dérogatoire pour la reconstruction après les violences urbaines
 Références
+
+- [Quelles sont les différentes procédures de marchés publics ?](https://entreprendre.service-public.fr/vosdroits/F32049)
 
 > **Et à l'IGN ?**

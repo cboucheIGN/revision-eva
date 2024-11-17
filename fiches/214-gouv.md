@@ -11,9 +11,17 @@ La DINUM comprend six départements et quatre missions
 - la mission « Budget et achat » est chargée d'assurer le pilotage budgétaire et l'exécution financière des actes de gestion, de mettre en œuvre l'achat public et de contribuer à la performance et à la qualité de l'exécution des opérations budgétaires et financières ;
 - la mission « Communication » pilote et coordonne la stratégie et les actions de communication de la DINUM.
 
+### Feuille de route de la DINUM
+
+- Engager une mutation profonde des organisations publiques pour initier et conduire dans la durée les projets numériques de l’État.
+- Renforcer significativement les compétences numériques au sein de l’État.
+- Développer l’exploitation effective des données pour un État plus efficace dans son action et plus simple vis-à-vis des citoyens, des entreprises et des agents publics.
+- Préserver la souveraineté numérique de l’État en investissant dans des outils numériques mutualisés.
+
 Références
 
 - [Direction interministérielle du numérique](https://www.economie.gouv.fr/direction-interministerielle-du-numerique)
+- [Feuille de route](https://www.numerique.gouv.fr/publications/feuille-de-route-dinum/)
 
 > **Et à l'IGN ?**
 
@@ -42,3 +50,20 @@ Références
 - [Cadre de gouvernance de la sécurité numérique de l’État (PSSIE)](https://cyber.gouv.fr/cadre-de-gouvernance-de-la-securite-numerique-de-letat-pssie)
 
 > **Et à l'IGN ?**
+
+## Etalab
+
+Etalab est un département de la direction interministérielle du numérique (DINUM). Faisant office de « Chief Data Officer » de l’Etat (au titre des missions de l’Administrateur général des données, des algorithmes et des codes sources), il coordonne la conception et la mise en œuvre de la stratégie de l’État dans le domaine de la donnée.
+
+- [Etalab - qui-sommes-nous ?](https://www.etalab.gouv.fr/qui-sommes-nous/)
+
+## SILL
+
+Le plan d’action logiciels libres et communs numériques
+
+La mission logiciels libres est née du plan d'action logiciels libres et communs numériques dont les trois axes sont soutenir le recours aux logiciels libres dans l'administration ; développer l'ouverture des codes sources du secteur public ; renforcer l'attractivité de l'Etat-employeur en s'appuyant sur l'open source.
+
+Catalogue de référence de logiciels libres recommandés pour l'ensemble de l'administration.
+
+- [SILL - Socle interministériel des logiciels libres](https://code.gouv.fr/sill/list)
+- [Plan d’action logiciels libres et communs numériques](https://code.gouv.fr/fr/plan-action-logiciels-libres-et-communs-numeriques/)

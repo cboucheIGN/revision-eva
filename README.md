@@ -27,7 +27,7 @@ Seul l'entretien avec le jury donne lieu à notation. Le dossier n'est pas noté
 
 ### Information
 
-- [ ] [Représentation de l'information](fiches/101-information.md)
+- [X] [Représentation de l'information](fiches/101-information.md)
 - [X] [Logiciel](fiches/102-logiciel.md)
 
 ### Programmation
