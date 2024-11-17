@@ -16,11 +16,70 @@ Référence
 
 Enfin présenter mes mission actuelles puis remontés dans le temps. Mettre en avant une progression technique et une réussite des objectifs fixé par le chef d'unité.
 
-2024 - 2021 Responsable de développement
+#### 2024 - 2021 Responsable de développement
 
-2021 - 2014 Analyste / Développeur Concepteur
+Le responsable de développement définit le cadre technique des applications, participe au développement et encadre une équipe de developpeur concepteur.
 
-2013 - 2014 Ingénieur diplomé stagiaire
+> Observatoire des forêts.
+
+Création d'un portail de référence pour l'actualité forestière. Encadrement (40%) et participation au développements (60%). Ajout d'un back office permettant aux contributeurs (experts forestiers) de mettre en valeur leur travaux sous forme de carte, de données statistiques, et d'article de fond.
+
+> DSR - Transport exceptionnel
+
+Encadrement et appui d'un développeur pour la migration de l'outil existant vers le service Espace Collabartif (IGN), cette migration permet la mise à  jour en temps réel et collaborative de la donnée.
+
+> DHDA
+
+Encadrement d'un portail de dépot et de recherche de données carto et thématique dans le grand est pour la thématique forestière.
+
+> Autre
+
+Participation à la migration des applications IGN vers une infrastructure cloud.
+
+> Compétences
+
+- DevOps. Mise en place d'outils d'exploitation permettant le déploiement dans la nouvelle infrascruture cloud de l'établissement.
+- Compétence redactionnel - réalistaion de docuemntation technique (Dossier d'architeture, dossier d'exploitation), réalisation d'étude
+- Compétence d'encadrement - organisation des développeurs autour d'un même projet (répartition des charges, revues de code, appui technique)
+
+#### 2021 - 2014 Analyste / Développeur Concepteur
+
+L'analyste accompagne la vie d'un projet de développement
+
+- de l'expression fonctionnel
+- a la livraison
+- en passant par le développement
+
+Les choix technique doivent répondre aux besoins et mettre en valeurs les outils et compétences de l'établissement. Il travaille à proximité du responsable de projet.
+
+> Géoportail de l'urbanisme
+
+Application web permettant au grand public de consulter les documents d'urbanisme (fond cartographique et documents) et aux autorités compétentes de déposer les documents apposables.
+Réalisation des premières version du GPU et maintien en condition opérationnel.
+
+> DSR - Transport exceptionnel
+
+Réalisation et déploiement d'une application web permettant de saisir le réseau routier dédiés au transports exceptionnels.
+
+> Validation des Plan de Prévention des Risques
+
+Création d'une application de validation des plans de prévention des inondations par rapport au standard national COVADIS. Mise à jour d'outil outil open source.
+
+> Edugeo
+
+Ajout d'une visualitaion cartographique 3D.
+
+> Compétences
+
+Analyse - participation au montage du projet, estimation des charges, appui à la rédactions des specifications fonctionnelles.
+
+Dev - Mise en place des solutions techniques, déploiement sur l'infrastructure du SI.
+
+Enseignement - Enseignement et montage de projet de programmation pour des eleves ingérieur et master 2. Appui aux collègues sur la prise en main de nouveau frameworks et librairies.
+
+Compétence redactionnel - Réalisation de documentation technique, spécification fonctionnelles détaillées.
+
+#### 2013 - 2014 Ingénieur diplomé stagiaire
 
 ## Définition
 
@@ -38,6 +97,8 @@ Acteurs
 - DINUM - Direction interministérielle du numérique
 - ANSSI - Agence nationale de la sécurité des systèmes d'information
 - CNIL - Commission nationale de l'informatique et des libertés
+- [DSR](https://www.securite-routiere.gouv.fr/mieux-nous-connaitre/qui-sommes-nous/la-delegation-la-securite-routiere) - Délégation à la Sécurité routière
+- [GPU](https://www.geoportail-urbanisme.gouv.fr/) - Géoportail de l'urbanisme
 
 Reglementation
 

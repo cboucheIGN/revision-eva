@@ -45,7 +45,7 @@ Seul l'entretien avec le jury donne lieu à notation. Le dossier n'est pas noté
 
 ## Pour réviser
 
-- [ ] [Définition et présentation générale](questions/general.md)
+- [X] [Définition et présentation générale](questions/general.md)
 - [ ] [Questions détaillés](questions/detail.md) sur le programme
 - [ ] Exemple de [mise en situation](questions/round-1.md)
 
