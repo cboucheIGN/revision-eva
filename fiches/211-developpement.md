@@ -37,6 +37,16 @@ Références
 
 > **Et à l'IGN ?**
 
+## Style de dev
+
+- monolith
+- mvc
+- client / serveur / n-tiers
+- microservices -> pousser single responsablité au niveau architecture
+- api rest
+- single page app
+- serveless / nom commercial gestion evenemtielle (programmation evenementielle / taritement loursd)
+
 ## notions d'UX et UI
 
 L'expérience utilisateur (UX) est la qualité du vécu de l'utilisateur dans des environnements numériques ou physiques. C'est une notion de plus en plus courante là où l'on utilisait, encore récemment, les notions d'ergonomie des logiciels et d'utilisabilité.
@@ -65,7 +75,7 @@ Références
 
 > **Et à l'IGN ?**
 
-IaS. Ajout de contrainte pour miniser/maitriser les risques informatique. Par exemple une image ne sera pas éxécuter avec un compte qui à des droits en écriture sur le systeme, et qui ne se saurait être élévé au rang admin.
+IaC. Ajout de contrainte pour miniser/maitriser les risques informatique. Par exemple une image ne sera pas éxécuter avec un compte qui à des droits en écriture sur le systeme, et qui ne se saurait être élévé au rang admin.
 
 ## outils et environnements de développement : éditeur, compilateur, environnements d'exécutions, qualité du code, outils d'analyse du code, outils d'aide à la programmation
 
@@ -108,5 +118,6 @@ Références
 - [Test unitaire - Junit](https://junit.org/junit5/)
 - [Réalisez des tests End-to-End](https://openclassrooms.com/fr/courses/7159306-testez-vos-applications-front-end-avec-javascript/7332824-realisez-des-tests-end-to-end)
 - [Test e2e - Cypress](https://docs.cypress.io/app/get-started/why-cypress)
+- pyramide des tests (voir octo)
 
 > **Et à l'IGN ?**

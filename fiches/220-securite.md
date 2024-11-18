@@ -36,7 +36,7 @@ D'autant plus nécessaire qu'une attaque ou une interuption de service sont de p
 
 Rendu obligatoire par des textes pour de nombreux SI
 
-- [IGI1300](https://cyber.gouv.fr/instruction-generale-interministerielle-n1300) - l’Instruction générale interministérielle no 1300
+- [IGI 1300](https://cyber.gouv.fr/instruction-generale-interministerielle-n1300) - l’Instruction générale interministérielle no 1300
 - RGS - le référentiel général de sécurité
 - PSSIE - la politique des système d'information de l'état
 
@@ -96,3 +96,26 @@ Un VPN d'entreprise est un réseau privé virtuel conçu pour les entreprises. I
 > **Et à l'IGN ?**
 
 le client VPN BigIP sécurisé par mot de passe personnel, changé une fois pas an.
+
+## A surveiller
+
+nouvelle réglementation NIS2 européen
+
+## Secure by design
+
+l'approche secure by design défendue à l'IGN
+
+- integrer gestion de projet (user story et evil user story "je me met en position d'attaquant")
+- pas de sécurité post déploiement
+- minimiser la surface d'attaque
+- principe de moindre privilege
+- securité tous les niveaux
+- detection d'intrusion
+- ne pas faire confiance
+- séparer les respon
+- gérer un backlog des risques
+
+Renovbot / SBOM cycle mdx
+- les systemes sont complexes
+- format de répresentation des dépendances
+- détéction de secret dans les dépot (bloque le commit)

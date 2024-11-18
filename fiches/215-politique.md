@@ -47,6 +47,10 @@ Le RGI est un cadre de recommandations référençant des normes et standards qu
 
 Le RGI est défini dans l’ordonnance n° 2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités administratives et entre les autorités administratives. Dans l’article 11 de cette ordonnance, le “RGI fixe les règles techniques permettant d’assurer l’interopérabilité des systèmes d’information. Il détermine notamment les répertoires de données, les normes et les standards qui doivent être utilisés par les autorités administratives. Les conditions d’élaboration, d’approbation, de modification et de publications de ce référentiel sont fixées par décret”.
 
+- insipire
+- ogc
+- plus tout les référentiels / standards de l'industrie API REST / HTTP / JSON open API
+
 ## système de design de l'état (DSFR)
 
 Le Système de Design de l'État est à utiliser dès maintenant pour tout nouveau projet numérique au sein de l'État : les administrations centrales, leurs directions, les délégations interministérielles, les préfectures, les ambassades et l’ensemble des services déconcentrés.

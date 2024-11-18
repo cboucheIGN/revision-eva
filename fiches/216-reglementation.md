@@ -24,6 +24,10 @@ Références
 - [le cloud pour les administrations](https://www.numerique.gouv.fr/services/cloud/faq/)
 - [Circulaire cloud au centre - par le premier ministre](https://www.transformation.gouv.fr/files/ressource/Circulaire-n6282-SG-5072021-doctrine_utilisation-informatique-en-nuage-Etat.pdf)
 
+SSEC NUM CLOUD CLOUD ACT
+Cloud privés de confiance en réponse au PATRIOT ACT qui fait qu'il est ddifficile de protéger ses données si appartenant
+Cloud blue (azure/orange) pour offrir une réponse (Thales/Google)
+
 > **Et à l'IGN ?**
 
 ## le RGPD
