@@ -112,3 +112,5 @@ Reglementation
 Autre
 
 - SILL - Socle interministériel des logiciels libres
+- [MOA](https://fr.wikipedia.org/wiki/Ma%C3%AEtrise_d%27ouvrage) - Maitrise d'ouvrage / SPP
+- MOE - Maitrise d'oeuvre / conduite opérationnelle des travaux / DSI
