@@ -42,3 +42,5 @@ Un bon produit c'est un produit qui gagne à être connu;
 Il faut animer un cycle de vie de l'application et faire coordonnées les sprints majeure avec une communication vers les utilisateurs finaux.
 Il au niveaux des équipes de DEV il faut bien expliquer les différences entre chaque version afin que les contributeurs puissent toujours bien exploité l'application.
 (par exemple pour l'obervatoire des forêts, la presse est invité lors de la mise à jour de la compagne annuelle des données afind de présenter le contenu mis à jour mais aussi toutes les évolutions fonctionnnelles qui on été mené)
+
+Un bon produit c'est un produit rentable.
