@@ -6,9 +6,9 @@ Bonjour,
 
 Je suis Clément Bouché, Ingénieur des travaux cartographiques de l'état;
 
-J'ai rejoins la fonction publique en 2010 en intégrant, en tant qu'élève ingénieur fonctionnaire à l'Ecole Nationale des Sciences géographiques.
+J'ai rejoins la fonction publique en 2010 en intégrant, en tant qu'élève ingénieur fonctionnaire l'Ecole Nationale des Sciences géographiques.
 
-En 2013 j'attéri dans les locaux de l'IGN à saint mandé. Au sein d'une nouvelle équipe de la direction du système d'information (DSI) qui avait pour ambition de pleinnement implémenter la méthode agiles. Pour ça la direction avait proposé une réforme qui fusionnait responsable de projet proche des clients au analyses développeurs qui avait les mains dans le camboui.
+En 2013 j'attéri dans les locaux de l'IGN à saint mandé. Au sein d'une nouvelle équipe de la direction du système d'information (DSI) qui avait pour ambition de pleinnement implémenter la méthode agiles. Pour ça la direction avait proposé une ré-organisation qui fusionnait responsable de projet proche des clients au analyses développeurs qui avait les mains dans le camboui.
 
 Depuis 2013 j'ai participé à plus d'une dizaine de projet, a de raison de 4 projets actifs par an.
 
@@ -54,12 +54,12 @@ Sur cette période de Reponsable de développement je retiens les chantiers suiv
 En 2021 un grand chantier d'envergure à donner du grain à moudre à toute la direction du systeme d'information : la migration vers le cloud.
 De mon côté j'était responsable d'exploitation de 4 applications, on en profité pour en décomissionné 1, en migrer 2 et la dernière à été mise en pause car recyclé vers un autre produit.
 Cette migration fus une étape exitante car ça à permit fr revoir, et d'améliorer la chaine d'explotiation, en nous armans de puissant outils de CI/CD (gitlab.ci) directement lié à l'exploitation (kubernetes).
-Travaillé au plus proche des équipes de la mission sécurité nous a permit d'intégrer pleinement des reflexes DevSecOps tout au long de notre cycle de projet. Par exemple en redécoupant les l'API du site static, et des services en tâches de fond. (Application du principe de séparation de responsablité sur les noeuds de l'infrastructre).
+Travaillé au plus proche des équipes de la mission sécurité m'a permit d'intégrer pleinement des reflexes DevSecOps tout au long de notre cycle de projet. Par exemple en redécoupant les l'API du site static, et des services en tâches de fond. (Application du principe de séparation de responsablité sur les noeuds de l'infrastructre).
 Les responsable d'application comme moi avons une grande automomie à l'IGN ainsi on est en charge des solution techiques, de la migration et de l'exploitation. Ceci est vrai pour les projets à échelle humaine. pour les plus gros projet comme le GPU un prestataire est identifé pour exploité et réaliser la maintenance du service.
 
 Je connais bien par habitude et pratique les étapes du cycle de vie d'un projet à l'IGN (qui cherche à être au plus proche de la méthode agile). Je sais si on n'a une certication AGILE (je crois pas).
 
-En 2024 j'ai instruit et réalisé le chantier de la refonte du site obsevatoire des forêts vers le design systeme de l'état (DSFR) et un nouveau projet forestier un service de découverte des réglementation en forêts (afin de savoir quels sont les actions à prévoir en cas de coupe forestière).
+En 2024 j'ai estimé (temps de dev) et réalisé le chantier de la refonte du site obsevatoire des forêts vers le design systeme de l'état (DSFR) et un nouveau projet forestier un service de découverte des réglementation en forêts (afin de savoir quels sont les actions à prévoir en cas de coupe forestière).
 
 La mise en place du DSFR à été l'occassion de travaillé en direct avec la DINUM qui nous à accompagné sur le volet accessiblité. Sujet pour lequel je n'étais pas former avant. J'ai aimé ce sujet car il à permit d'appronfondir mes connaissance du langage HTML que je pensais maitrisé (there is something to learn).
 
