@@ -6,7 +6,7 @@ Bonjour,
 
 Je suis Clément Bouché, Ingénieur des travaux cartographiques de l'état;
 
-J'ai rejoins la fonction publique en 2010 en intégrant, en tant qu'élève ingénieur fonctionnaire l'Ecole Nationale des Sciences géographiques.
+J'ai rejoins la fonction publique en 2010 en intégrant, en tant qu'élève ingénieur fonctionnaire, l'Ecole Nationale des Sciences géographiques.
 
 En 2013 j'attéri dans les locaux de l'IGN à saint mandé. Au sein d'une nouvelle équipe de la direction du système d'information (DSI) qui avait pour ambition de pleinnement implémenter la méthode agiles. Pour ça la direction avait proposé une ré-organisation qui fusionnait responsable de projet proche des clients au analyses développeurs qui avait les mains dans le camboui.
 

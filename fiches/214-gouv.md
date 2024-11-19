@@ -25,6 +25,78 @@ Références
 
 > **Et à l'IGN ?**
 
+## DNum
+
+La direction du numérique (DNum) est responsable de l'écosystème informatique du pôle ministériel, de sa fiabilisation et de sa résilience. Elle porte l'ambition numérique en en définissant la stratégie et en mettant en œuvre les infrastructures numériques et les systèmes d'information.
+Elle maintient et développe de nombreux outils tournés vers le public comme vers les agents. Elle accompagne les directions et services du ministère pour l'élaboration, le déploiement, le maintien et l'évolution de leurs produits numériques, ainsi que pour la transformation des politiques publiques liées au numérique. Elle offre son expertise et ses conseil à ses différents partenaires.
+
+Elle assure la veille et la prospective sur les technologies émergentes et conduit les actions d'innovation.
+
+En son sein, la Fabrique numérique assure le rôle d'incubateur de startups d'État. Elle fait partie de la communauté interministérielle beta.gouv.fr
+
+![ambition_numerique](https://www.ecologie.gouv.fr/ambition-numerique-2023-2027)
+
+Les ambitions de la DNUM 2023-2027
+
+### Des sites et des démarches en ligne pilotés par l'impact utile et utilisés
+
+> Feuille de route accessibilité handi et numérique
+
+- travail sur la lisibilité de l'offre
+- référencement géolocalisé des sites
+- [France Nation Verte 2022](https://www.info.gouv.fr/grand-dossier/france-nation-verte)
+
+### Un numérique innovant s'appuyant sur les données
+
+> Feuille de route données et IA
+
+- développement de l'interfaçage application métiers / support
+- publication des codes sources et algorithme
+- cas d'usage de l'IA générative
+- alimentation du data hub
+- finalisation de la cartographie des SI
+
+### Des outils et services simples et efficaces pour les agents
+
+> Feuille de route accompagnement, transformation numérique
+
+- simplification du Bnum et lancement du parapheur numérique
+- exploitation des retours utilisateurs
+- fiabilisation de la couverture Wifi (internet et public)
+- modernisation de l'archivage
+- création de l'extranet dnum
+- création de l'intranet dnum
+
+### un numérique opérationnel résilient et sécurisé
+
+> Feuille de route sécurité des SI
+
+- migration des sites vers le RIE 2.0
+- homologations
+- authentifications multifacteurs
+- factialitation de la gestion du parc
+- conception du réseau classifié du shfds
+- collaboration avec le campus cyber
+- développer la notoriété du cloud eco au sein du périmètre ministériel
+
+### un numérique exemplaire en matière d'éco-responsabilité
+
+> Feuille de route numérique éco-responsables
+
+- mesure de l'empreinte environnementale
+- partage d'indicateurs
+- labelisation numérique écoresponsable du cloud eco
+- impulsion de l'éco conception
+- fermeture de la salle de serveurs de bordeaux
+- hebergement (datacenters) à l'état de l'art
+
+Référence
+
+- [DNum - ecologie.gouv](https://www.ecologie.gouv.fr/ministeres/secretariat-general#direction-du-numerique-dnum-5)
+- [La fabrique du numérique](https://www.ecologie.gouv.fr/fabrique-numerique)
+- [Ambition numérique 2023 - 2027](https://www.ecologie.gouv.fr/ambition-numerique-2023-2027)
+- [DSI - agriculture.gouv](https://agriculture.gouv.fr/mots-cles/administration-numerique)
+
 ## gouvernance du numérique étatique
 
 Le cadre de gouvernance de la sécurité numérique de l’État, corédigé avec l’ensemble des ministères, renforce la prise en compte du risque numérique dans la mise en œuvre et l’exploitation des systèmes d’information et de communication de l’État par les ministères et les établissements publics d’État.
