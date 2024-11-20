@@ -41,6 +41,30 @@ La loi relative à la réduction de l’empreinte environnementale du numérique
 
 Cette version 2024 reprend et complète les travaux menés en 2022 dans le cadre de la mission interministérielle numérique responsable et co-pilotée par la Direction interministérielle du numérique (DINUM), le Ministère de la Transition Écologique, l’ADEME et l’Institut du Numérique Responsable.
 
+### La philosophie
+
+Le numérique responsable décline les 3 axes du développement durable : Ecologie/Société/Economie.
+
+Nous nous sommes fixés 3 objectifs pour répondre aux exigences de l’écoconception
+
+- créer un site léger (en termes de code mais également de visuels et de fonctionnalités) avec moins de besoin de stockage et de transfert de données. Le but est d’économiser l’énergie nécessaire pour faire fonctionner le site et d’allonger la durée de vie du matériel ;
+- faciliter l’accès à tous les utilisateurs en respectant les exigences d’accessibilité et de protection des données personnelles ;
+- fournir un site internet **utile** et pérenne avec une navigation facilitée et non intrusive et surtout un **site facile à entretenir**.
+
+### Etat de conformité
+
+Le site <https://www.ademe.fr/> est partiellement conforme en regard des critères du Référentiel Général d’Écoconception des Services Numériques (RGESN). Le taux de conformité général actuel du site est estimé à 80 %.
+
+L’ADEME vise une mise en conformité progressive de ses sites internet via une démarche d’amélioration continue. Après sa dernière refonte au printemps 2022, le site a fait l’objet d’un audit de conformité accompagné d’une feuille de route d’améliorations. Des améliorations ont été menées tant au niveau technique que des contenus éditoriaux, tout au long de l’année 2022.
+
+Référence
+
+- [Ademe à produit un site écoconcu](https://www.ademe.fr/une-logique-d-ecoconception/)
+- [Label numérique responsable NR](https://label-nr.fr/pourquoi/)
+- [Audit de conformité RGESN](https://www.ademe.fr/wp-content/uploads/2023/01/ademe-fr-rgesn-vbeta-grilles-devaluation.pdf)
+- [Référence général d'écoconception - web](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/)
+- [Référentiel général de l'écoconception pdf](https://ecoresponsable.numerique.gouv.fr/docs/2024/rgesn-mai2024/referentiel_general_ecoconception_des_services_numeriques_version_2024.pdf)
+
 ### RGI
 
 Le RGI est un cadre de recommandations référençant des normes et standards qui favorisent l’interopérabilité au sein des systèmes d’information de l’administration. Ces recommandations constituent les objectifs à atteindre pour favoriser l’interopérabilité. Elles permettent aux acteurs cherchant à interagir et donc à favoriser l’interopérabilité de leur système d’information, d’aller au-delà de simples arrangements bilatéraux.
