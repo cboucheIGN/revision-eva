@@ -120,6 +120,115 @@ Les valeurs agiles sont plutôt bien respecté car une grande autonomie est donn
 
 On reçois régulièrement (lors des points dev) de nouvelles commandes permettant de préciser, d'améliorer l'expérience utilsiateur.
 
+## Méthodes des piliers d'impacts
+
+Une méthodologie pour définir une vision stratégique et des objectifs pour son équipe.
+
+Dans un écosystème professionnel de plus en plus axé sur la donnée et confronté à la complexité de mesurer efficacement la performance des projets, de nombreux responsables équipes sont confrontés à un défi majeur : comment améliorer continuellement leur impact sur l’entreprise et leurs résultats ?
+
+La méthode des "Piliers d'Impact" se présente comme une démarche stratégique, conçue pour aider ces équipes à définir une vision et à atteindre des objectifs alignés avec leur mission fondamentale.
+
+Nous avons voulu rendre cette méthodologie ludique et visuelle en parlant de “piliers” pour faire référence aux piliers des temples à l’image des temples grecs et/ou romains que l’on peut encore admirer aujourd’hui et qui sont debout depuis des siècles et des siècles.
+
+Vous l’aurez compris, l’objectif est d’ériger le temple de votre équipe avec
+
+- un toit robuste : il portera la vision de l’équipe et sa raison d’être
+- des piliers composés de chapeaux et de blocs de pierre : assemblés scrupuleusement il permettront de porter et surélever ce toit (et donc votre vision)
+
+‍Pourquoi utiliser les Piliers d’impact
+
+- Dispersions des données et manque d'homogénéité dans les indicateurs de performance
+- Difficulté à mesurer l'impact réel des projets
+- Un premier pas vers les OKRs
+
+### La méthodologie des piliers d’impact
+
+Durée d’implémentation moyenne : 3 à 6 mois
+Equipe cible idéale: une dizaine de personnes ayant des périmètres proches
+
+Phase 1 : cadrage et compréhension
+
+Cette phase initiale vise à construire collectivement la raison d'être de l'équipe, en alignement avec les objectifs stratégiques globaux. Elle permet de comprendre les défis à relever, d’identifier le rôle de l’équipe dans l’organisation et dans la proposition de valeur et de service de l’entreprise. Nous allons créer à ce moment là le “mission statement” ou l’UVP de l’équipe.
+
+- Que créons-nous, quel impact ou valeur ajoutée nous créons ?
+- Pour qui, qui sont nos cibles/clients/utilisateurs ?
+- Comment le faisons-nous, quels types d’actions mettons nous en place ?
+
+Phase 2 : définition des Critères de Réussite
+
+À cette étape, nous identifions les critères de réussite de la mise en place de cette nouvelle organisation, comment faire en sorte que la définition d’objectifs fonctionne bien, que les équipes arrivent à piloter les résultats de leurs projets/initiatives, l’évolution des KPIs et leur contribution à l’atteinte des objectifs.
+
+Phase 3 : établissement des Piliers d'Impact
+
+Les piliers d'impact sont définis comme les fondements de la vision stratégique. À chaque pilier sont associés des indicateurs clés de performance (KPIs).
+Les équipes doivent pouvoir suivre l'efficacité des actions sur chaque pilier d’impact en constatant une évolution/amélioration des KPIs listés.
+
+Phase 4 : planification Opérationnelle
+
+La dernière phase concerne la mise en place d'un plan d'action annuel, incluant la définition des ressources nécessaires, l'organisation du suivi des KPIs, et la communication autour de la vision stratégique.
+Il est important dans un premier temps de s’assurer d'avoir une donnée relative au KPIs à l’instant T, sans cela, il sera impossible de mesurer une évolution.
+
+- de relever les indicateurs existants sur les KPIs que vous avez définis,
+- d’identifier la source de ceux qui manquent
+- créer une définition de ceux qui n’existent pas encore et identifier un moyen de les relever et les piloter.
+
+### Conclusion
+
+Une bonne connaissance des données et de leur accessibilité, ainsi qu'une compréhension partagée de la performance, sont des éléments essentiels pour élaborer une stratégie efficace.
+
+Cette approche, en plaçant les données au cœur de la stratégie, permet non seulement d'accélérer le processus de définition des piliers d'impact, mais assure également que chaque initiative sera mesurée de manière précise et alignée avec les objectifs stratégiques.
+
+Les équipes peuvent ensuite naviguer plus aisément dans un environnement complexe et dynamique car les collaborateurs ont une compréhension exhaustive des impacts et des indicateurs qu’ils cherchent à faire évoluer. On obtient ainsi des effets notables sur l’implication et la motivation des membres de l’équipe mais aussi des gains en autonomie grâce à la responsabilisation sur la mesure des impacts de leur projet.
+
+### Méthode produit
+
+- PO maintient le baklog et priorise les équipes en éléments de travail
+- les PM eux même parfois, ne devraient même pas spécifier la solution,
+- les PO (vision opérationnel) écrivent des Epics détaillées et des US (user story)
+- Encourager l’esprit intrapreneurial chez les Product Managers (vision stratégique)
+
+![PM_PO](https://cdn.prod.website-files.com/60b93daf62bb40ac4fbb77ab/66ebc82a40df3f092314a15c_66ea8deac6d769e75f109804_AD_4nXeqGBI4jUHTrgI4kvlMNwXEE6CLKqb_oLQQnliNLvrzi0cnkWlOINiKveJZnXeqA7eTsA_XvUP5IXnTP8PiTM7jm1SNzEWblj7dOgl3vMYqxNRf32j7KGFTTIo2GPL2D2W9OsrYahcU2FF21QWNZJgE_q1v.png)
+
+Lors du recrutement de PM, certaines compétences sont essentielles mais parfois négligées, comme la capacité d’analyse, l’empathie envers les utilisateurs, ou encore l’humilité.
+Ces qualités permettent aux PM de comprendre les besoins des utilisateurs et de travailler efficacement avec les équipes.
+
+Pensée analytique
+Les bons PM sont capables de décomposer les problèmes, d'évaluer le pour et le contre, de faire des estimations approximatives, d'analyser les faits et les données et d'estimer les probabilités et les distributions.
+
+Empathie envers les utilisateurs
+La capacité d’empathie est essentielle pour comprendre et répondre aux besoins des utilisateurs. Les PM doivent être capables de voir à travers les yeux de leur public cible et de défendre leurs intérêts auprès des équipes produit.
+
+Humilité
+Les PM ont beaucoup de pouvoir sur le produit. Un PM trop sûr de lui, qui fait entièrement confiance à son intuition et à son jugement et n'a pas besoin de preuves, est tout aussi mauvais qu'un manager qui présente ces mêmes caractéristiques. Ce que nous recherchons, ce sont des opinions fortes, tenues à la légère.
+
+Référence
+
+- [Pilier d'impact](https://www.digilityx.com/post/methode-des-piliers-dimpact)
+- [Equipe produit PM/PO](https://www.digilityx.com/post/5-conseils-pour-rendre-plus-efficace-ton-equipe-produit)
+- [Culture Produit & Product Management](https://publication.octo.com/fr/culture-produit-product-management-octo)
+- [jargon de la culture produit](https://numericite.eu/le-glossaire-jargon-de-la-culture-methode-produit/)
+
+## Culture produit
+
+**Un produit numériques** qui réussit doit se focaliser sur 5 piliers
+
+1. Une attention forte à l’équipe et l’organisation : le produit, c’est l’équipe !
+2. Une obsession de la valeur : on crée des produits pour créer de la valeur pour nos utilisateurs.
+3. Une passion et une excellence pour la tech : le produit digital est un produit technique par essence.
+4. La Data avant tout : “data beats opinion”.
+5. Le courage de garantir un produit responsable : dire “non”, faire pivoter le produit pour garantir le respect des écosystème.
+
+**Des produits responsables** c'est quoi ?
+
+1. L'éco-conception
+2. L’inclusion & l'accessibilité
+3. Le respect de la vie privée
+4. La finalité extra-financière
+
+> **Et à l'IGN ?**
+
+Appel [Octo technology](https://octo.com/) cabinet de conseil et de réalisation IT pour nous accompagner ponctuellement sur certain projet. On en a retirer des méthodes de calculs de qualité du code (code coverage, sonar cube). Et des méthodes projets (PM/PO à mettre en avant)
+
 ## Mode produit
 
 Le mode produit est une méthodologie de travail qui consiste à se focaliser sur la valeur apportée à son client et aux utilisateurs finaux. Le produit se construit au fur et à mesure de manière itérative en prenant en compte les feedbacks utilisateurs afin de l’améliorer constamment.

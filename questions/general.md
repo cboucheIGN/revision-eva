@@ -114,3 +114,11 @@ Autre
 - SILL - Socle interministériel des logiciels libres
 - [MOA](https://fr.wikipedia.org/wiki/Ma%C3%AEtrise_d%27ouvrage) - Maitrise d'ouvrage / SPP
 - MOE - Maitrise d'oeuvre / conduite opérationnelle des travaux / DSI
+- KPI - Key Performance Indicators
+- PO - product owner - responsable opérationnel du produit (priorisation)
+- PM - product manager - responsable d'un portefeuille de produit
+- Coach agile - facilitateur
+- UX Designer - production de personas / maquette / parcours utilisateurs
+- US - User Story - besoin traduit en cas d'usage
+- EPIC - groupe de US traduisant un besoin large / complexe
+- Open Lab - journée convivial et collective pour présenter les avancés d'un produit
