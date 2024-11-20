@@ -110,7 +110,7 @@ Reglementation
 - RGAA - Référentiel général d'amélioration de l'accessilibté
 - RGI - Référentiel général d'interopérabilité
 - RGESN - Référentiel général d'écoconception de services numériques
-- IGI 1300 - L'instruction générale interministérielle 1300
+- IGI 1300 - L'instruction générale interministérielle 1300 (RGS pour les données classifé défense)
 
 Autre
 
@@ -125,3 +125,6 @@ Autre
 - US - User Story - besoin traduit en cas d'usage
 - EPIC - groupe de US traduisant un besoin large / complexe
 - Open Lab - journée convivial et collective pour présenter les avancés d'un produit
+- ARIA - Accessible rich internet application (application internet riche et accessibles)
+- VA - vérification d'aptitude (aptitude à répondre aux besoin exprimés dans le cahier des charges initial)
+- VSR - Vérification de service régulier (mise en production en condition réelle)
