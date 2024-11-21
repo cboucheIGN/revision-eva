@@ -52,6 +52,10 @@ Seul l'entretien avec le jury donne lieu à notation. Le dossier n'est pas noté
 - [X] Exemple de [mise en situation n2](questions/round-2.md)
 - [X] Exemple de [mise en situation n3](questions/round-3.md)
 
+## Retour d'expérience
+
+- [Retex](RETEX.md) post passage
+
 ## Documents
 
 - [RAEP](doc/BOUCHE_Clement_2024-ANALYSTE-62_dossier_RAEP.pdf)
