@@ -125,6 +125,9 @@ Autre
 - US - User Story - besoin traduit en cas d'usage
 - EPIC - groupe de US traduisant un besoin large / complexe
 - Open Lab - journée convivial et collective pour présenter les avancés d'un produit
+- Scrum - framework de développement de produit
+- Xtrem programming - privilegie l'aspect réalisation d'une application, sans pour autant négliger l'aspect gestion de projet
 - ARIA - Accessible rich internet application (application internet riche et accessibles)
 - VA - vérification d'aptitude (aptitude à répondre aux besoin exprimés dans le cahier des charges initial)
 - VSR - Vérification de service régulier (mise en production en condition réelle)
+- Runbook - dossier d'exploitation
