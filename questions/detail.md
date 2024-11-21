@@ -1,5 +1,7 @@
 # Questions detaillés
 
+> Question généré par IA sur la bases des fiches rédigés dans ce projet
+
 Voici quelques questions qui pourraient vous aider à vous préparer pour votre oral, en vous basant sur les informations contenues dans les sources fournies :
 
 ## Système d'exploitation et Applications

@@ -1,86 +1,5 @@
 # Questions génériques
 
-## Expérience professionelle RAEP
-
-> Partie fixe à résumé en 5 min, temps qui inclut la réponses au éventuelles relances du jury
-
-### Commencer par une présentation de l'IGN, de ses mission
-
-L'institut a pour vocation de décrire, d'un point de vue géométrique et physique, la surface du territoire national et l'occupation de son sol, d'élaborer et de mettre à jour l'inventaire permanent des ressources forestières nationales prévu par l'article L. 521-1 du code forestier, ainsi que de faire toutes les représentations appropriées, d'archiver et de diffuser les informations correspondantes. Il contribue ainsi à l'aménagement du territoire, au développement durable et à la protection de l'environnement, à la défense et à la sécurité nationale, à la prévention des risques, au développement de l'information géographique et à la politique forestière en France et au niveau international.
-
-Référence
-
-- [Décret n° 2011-1371 du 27 octobre 2011 relatif à l'Institut national de l'information géographique et forestière (IGN)](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000024720351)
-
-### Puis affiner à la DSI, à l'unité RDS
-
-Enfin présenter mes mission actuelles puis remontés dans le temps. Mettre en avant une progression technique et une réussite des objectifs fixé par le chef d'unité.
-
-#### 2024 - 2021 Responsable de développement
-
-Le responsable de développement définit le cadre technique des applications, participe au développement et encadre une équipe de developpeur concepteur.
-
-> Observatoire des forêts.
-
-Création d'un portail de référence pour l'actualité forestière. Encadrement (40%) et participation au développements (60%). Ajout d'un back office permettant aux contributeurs (experts forestiers) de mettre en valeur leur travaux sous forme de carte, de données statistiques, et d'article de fond.
-
-> DSR - Transport exceptionnel
-
-Encadrement et appui d'un développeur pour la migration de l'outil existant vers le service Espace Collabartif (IGN), cette migration permet la mise à  jour en temps réel et collaborative de la donnée.
-
-> DHDA
-
-Encadrement d'un portail de dépot et de recherche de données carto et thématique dans le grand est pour la thématique forestière.
-
-> Autre
-
-Participation à la migration des applications IGN vers une infrastructure cloud.
-
-> Compétences
-
-- DevOps. Mise en place d'outils d'exploitation permettant le déploiement dans la nouvelle infrascruture cloud de l'établissement.
-- Compétence redactionnel - réalistaion de docuemntation technique (Dossier d'architeture, dossier d'exploitation), réalisation d'étude
-- Compétence d'encadrement - organisation des développeurs autour d'un même projet (répartition des charges, revues de code, appui technique)
-
-#### 2021 - 2014 Analyste / Développeur Concepteur
-
-L'analyste accompagne la vie d'un projet de développement
-
-- de l'expression fonctionnel
-- a la livraison
-- en passant par le développement
-
-Les choix technique doivent répondre aux besoins et mettre en valeurs les outils et compétences de l'établissement. Il travaille à proximité du responsable de projet.
-
-> Géoportail de l'urbanisme
-
-Application web permettant au grand public de consulter les documents d'urbanisme (fond cartographique et documents) et aux autorités compétentes de déposer les documents apposables.
-Réalisation des premières version du GPU et maintien en condition opérationnel.
-
-> DSR - Transport exceptionnel
-
-Réalisation et déploiement d'une application web permettant de saisir le réseau routier dédiés au transports exceptionnels.
-
-> Validation des Plan de Prévention des Risques
-
-Création d'une application de validation des plans de prévention des inondations par rapport au standard national COVADIS. Mise à jour d'outil outil open source.
-
-> Edugeo
-
-Ajout d'une visualitaion cartographique 3D.
-
-> Compétences
-
-Analyse - participation au montage du projet, estimation des charges, appui à la rédactions des specifications fonctionnelles.
-
-Dev - Mise en place des solutions techniques, déploiement sur l'infrastructure du SI.
-
-Enseignement - Enseignement et montage de projet de programmation pour des eleves ingérieur et master 2. Appui aux collègues sur la prise en main de nouveau frameworks et librairies.
-
-Compétence redactionnel - Réalisation de documentation technique, spécification fonctionnelles détaillées.
-
-#### 2013 - 2014 Ingénieur diplomé stagiaire
-
 ## Définition
 
 Acteurs
@@ -131,3 +50,19 @@ Autre
 - VA - vérification d'aptitude (aptitude à répondre aux besoin exprimés dans le cahier des charges initial)
 - VSR - Vérification de service régulier (mise en production en condition réelle)
 - Runbook - dossier d'exploitation
+
+## l'IGN, et ses mission
+
+L'institut a pour vocation de décrire, d'un point de vue géométrique et physique, la surface du territoire national et l'occupation de son sol, d'élaborer et de mettre à jour l'inventaire permanent des ressources forestières nationales prévu par l'article L. 521-1 du code forestier, ainsi que de faire toutes les représentations appropriées, d'archiver et de diffuser les informations correspondantes. Il contribue ainsi à l'aménagement du territoire, au développement durable et à la protection de l'environnement, à la défense et à la sécurité nationale, à la prévention des risques, au développement de l'information géographique et à la politique forestière en France et au niveau international.
+
+Référence
+
+- [Décret n° 2011-1371 du 27 octobre 2011 relatif à l'Institut national de l'information géographique et forestière (IGN)](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000024720351)
+
+### la DSI, l'unité RDS
+
+Présenter les mission actuelles puis remontés dans le temps. Mettre en avant une progression technique et une réussite des objectifs fixé par le chef d'unité.
+
+- 2024 - 2021 Responsable de développement
+- 2021 - 2014 Analyste / Développeur Concepteur
+- 2013 - 2014 Ingénieur diplomé stagiaire

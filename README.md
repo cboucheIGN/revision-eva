@@ -15,9 +15,9 @@ Un moins au moins avant la date de l'examen, le candidat fait parvenir à l'auto
 - Tout justificatif attestant de la réalité des éléments déclarés par le candidat et en lien avec l'objet de l'examen professionnel
 - Un avis du supérieur hierarchique
 
-L'entretien débute par une **présentation** par le candidat de **son parcours pro**, suivie, le cas échéant, de questions posées par le jury sur le parcours du candidat (**5 min**)
+L'entretien débute par une **présentation** par le candidat de **[son parcours pro](questions/raep.md)**, suivie, le cas échéant, de questions posées par le jury sur le parcours du candidat (**5 min**)
 
-Ces échanges sont suivis d'une **résolution de cas pratique** par le candidat, en **5 min** au plus sur un sujet de son choix parmi deux sujets tirés au sort (temps de *préparation 20 min*)
+Ces échanges sont suivis d'une **[résolution de cas pratique](questions/round-3.md)** par le candidat, en **5 min** au plus sur un sujet de son choix parmi deux sujets tirés au sort (temps de *préparation 20 min*)
 
 L'entretien se termine par une **discussion** d'une durée **de 20 min** au plus avec le jury, qui peut porter sur le contenu de la présentation, le parcours du candidat, la résolution du cas pratique et le progamme défini en annexe
 
@@ -43,11 +43,14 @@ Seul l'entretien avec le jury donne lieu à notation. Le dossier n'est pas noté
 - [X] [Architecture informatique](fiches/219-archi.md)
 - [X] [Sécurité informatique](fiches/220-securite.md)
 
-## Pour réviser
+## Pour se préparer
 
+- [X] [Pitch expérience professionnel - RAEP](questions/raep.md)
 - [X] [Définition et présentation générale](questions/general.md)
-- [ ] [Questions détaillés](questions/detail.md) sur le programme
-- [ ] Exemple de [mise en situation](questions/round-1.md)
+- [X] [Questions détaillés](questions/detail.md) sur le programme
+- [X] Exemple de [mise en situation n1](questions/round-1.md)
+- [X] Exemple de [mise en situation n2](questions/round-2.md)
+- [X] Exemple de [mise en situation n3](questions/round-3.md)
 
 ## Documents
 
