@@ -1,9 +1,12 @@
 # Examen de vérification d'aptitude aux fonctions d'analystes (EVA Analyste)
 
+- [Retour d'expérience](RETEX.md) post passage
+- [Sujet 2024](questions/sujets-2024.md)
 - [NoteBook](https://notebooklm.google.com/notebook/0f49755d-79c0-47b7-8d98-345b6f1ec081)
 - [Dépot](https://github.com/cboucheIGN/revision-eva)
+- Note final 13/20
 
-## Arrete
+## Modalités d'examen
 
 [Par arrêté](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049909467) du ministre de la transition écologique et de la cohésion des territoires (MTECT) et du ministre de la transformation et de la fonction publique (MTFP) en date du 10 juin 2024.
 
@@ -51,10 +54,6 @@ Seul l'entretien avec le jury donne lieu à notation. Le dossier n'est pas noté
 - [X] Exemple de [mise en situation n1](questions/round-1.md)
 - [X] Exemple de [mise en situation n2](questions/round-2.md)
 - [X] Exemple de [mise en situation n3](questions/round-3.md)
-
-## Retour d'expérience
-
-- [Retex](RETEX.md) post passage
 
 ## Documents
 
